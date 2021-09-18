@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FBtn snapshot default 1`] = `
+<button
+  class="v-btn theme--light undefined-text--text"
+  type="button"
+>
+  <div
+    class="v-btn__content"
+  />
+</button>
+`;
+
+exports[`FBtn snapshot with color 1`] = `
+<button
+  class="v-btn theme--light primary primary-text--text"
+  type="button"
+>
+  <div
+    class="v-btn__content"
+  />
+</button>
+`;

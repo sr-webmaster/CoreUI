@@ -1,0 +1,408 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FCalendarEventsList Visuals defaults 1`] = `
+<div
+  class="v-list theme--light"
+  role="list"
+>
+  <div
+    class="px-0 f-calendar-events-list__item py-2 px-0"
+    role="listitem"
+  >
+    <div
+      class="v-list__tile theme--light"
+    >
+      <div
+        class="v-list__tile__action v-list__tile__action--stack white--text f-calendar-event__cal text-xs-center py-0 pr-2 mr-2 pl-0"
+      >
+        <div
+          class="primary f-calendar-event__month-day"
+        >
+          <div
+            class="f-calendar-event__month"
+          >
+            
+          Jan
+        
+          </div>
+           
+          <div
+            class="f-calendar-event__date headline"
+          >
+            
+          1
+        
+          </div>
+        </div>
+         
+        <div
+          class="f-calendar-event__time secondary caption pa-1"
+        >
+          
+        11:28 AM
+      
+        </div>
+      </div>
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          <div
+            class="f-calendar-event__title subtitle"
+          >
+            <span
+              class="primary--text"
+            >
+              
+            Conference Call
+          
+            </span>
+          </div>
+        </div>
+         
+        <div
+          class="v-list__tile__sub-title"
+        >
+          <div
+            class="f-calendar-event__subtitle body-2 grey--text"
+          >
+            
+          Phonecall
+        
+          </div>
+        </div>
+         
+        <div
+          class="v-menu"
+        >
+          <button
+            class="f-calendar-events-list__item-menu-button ma-0 px-1 v-btn v-btn--flat v-btn--small theme--light"
+            type="button"
+          >
+            <div
+              class="v-btn__content"
+            >
+              
+            Edit
+            
+              <i
+                aria-hidden="true"
+                class="v-icon mx-0 v-icon--right material-icons theme--dark"
+              >
+                expand_more
+              </i>
+            </div>
+          </button>
+          <div
+            class="v-menu__content theme--light "
+            style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+          >
+             
+            <div
+              class="v-list theme--light"
+              role="list"
+            >
+              <div
+                role="listitem"
+              >
+                <a
+                  class="v-list__tile v-list__tile--link theme--light"
+                >
+                  <div
+                    class="v-list__tile__title"
+                  >
+                    Edit
+                  </div>
+                </a>
+              </div>
+               
+              <div
+                role="listitem"
+              >
+                <a
+                  class="v-list__tile v-list__tile--link theme--light"
+                >
+                  <div
+                    class="v-list__tile__title"
+                  >
+                    Delete
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="px-0 f-calendar-events-list__item py-2 px-0"
+    role="listitem"
+  >
+    <div
+      class="v-list__tile theme--light"
+    >
+      <div
+        class="v-list__tile__action v-list__tile__action--stack white--text f-calendar-event__cal text-xs-center py-0 pr-2 mr-2 pl-0"
+      >
+        <div
+          class="primary f-calendar-event__month-day"
+        >
+          <div
+            class="f-calendar-event__month"
+          >
+            
+          Feb
+        
+          </div>
+           
+          <div
+            class="f-calendar-event__date headline"
+          >
+            
+          28
+        
+          </div>
+        </div>
+         
+        <div
+          class="f-calendar-event__time secondary caption pa-1"
+        >
+          
+        2:30 PM
+      
+        </div>
+      </div>
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          <div
+            class="f-calendar-event__title subtitle"
+          >
+            <span
+              class="primary--text"
+            >
+              
+            Conference Call 1
+          
+            </span>
+          </div>
+        </div>
+         
+        <div
+          class="v-list__tile__sub-title"
+        >
+          <div
+            class="f-calendar-event__subtitle body-2 grey--text"
+          >
+            
+          Phonecall
+        
+          </div>
+        </div>
+         
+        <div
+          class="v-menu"
+        >
+          <button
+            class="f-calendar-events-list__item-menu-button ma-0 px-1 v-btn v-btn--flat v-btn--small theme--light"
+            type="button"
+          >
+            <div
+              class="v-btn__content"
+            >
+              
+            Edit
+            
+              <i
+                aria-hidden="true"
+                class="v-icon mx-0 v-icon--right material-icons theme--dark"
+              >
+                expand_more
+              </i>
+            </div>
+          </button>
+          <div
+            class="v-menu__content theme--light "
+            style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+          >
+             
+            <div
+              class="v-list theme--light"
+              role="list"
+            >
+              <div
+                role="listitem"
+              >
+                <a
+                  class="v-list__tile v-list__tile--link theme--light"
+                >
+                  <div
+                    class="v-list__tile__title"
+                  >
+                    Edit
+                  </div>
+                </a>
+              </div>
+               
+              <div
+                role="listitem"
+              >
+                <a
+                  class="v-list__tile v-list__tile--link theme--light"
+                >
+                  <div
+                    class="v-list__tile__title"
+                  >
+                    Delete
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="px-0 f-calendar-events-list__item py-2 px-0"
+    role="listitem"
+  >
+    <div
+      class="v-list__tile theme--light"
+    >
+      <div
+        class="v-list__tile__action v-list__tile__action--stack white--text f-calendar-event__cal text-xs-center py-0 pr-2 mr-2 pl-0"
+      >
+        <div
+          class="primary f-calendar-event__month-day"
+        >
+          <div
+            class="f-calendar-event__month"
+          >
+            
+          Dec
+        
+          </div>
+           
+          <div
+            class="f-calendar-event__date headline"
+          >
+            
+          31
+        
+          </div>
+        </div>
+         
+        <div
+          class="f-calendar-event__time secondary caption pa-1"
+        >
+          
+        6:00 PM
+      
+        </div>
+      </div>
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          <div
+            class="f-calendar-event__title subtitle"
+          >
+            <span
+              class="primary--text"
+            >
+              
+            Conference Call 2  with a very long title that may just go on forever and ever...  But seriously, why is this event title so long?  I do not really know, do you?
+          
+            </span>
+          </div>
+        </div>
+         
+        <div
+          class="v-list__tile__sub-title"
+        >
+          <div
+            class="f-calendar-event__subtitle body-2 grey--text"
+          >
+            
+          Phonecall
+        
+          </div>
+        </div>
+         
+        <div
+          class="v-menu"
+        >
+          <button
+            class="f-calendar-events-list__item-menu-button ma-0 px-1 v-btn v-btn--flat v-btn--small theme--light"
+            type="button"
+          >
+            <div
+              class="v-btn__content"
+            >
+              
+            Edit
+            
+              <i
+                aria-hidden="true"
+                class="v-icon mx-0 v-icon--right material-icons theme--dark"
+              >
+                expand_more
+              </i>
+            </div>
+          </button>
+          <div
+            class="v-menu__content theme--light "
+            style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+          >
+             
+            <div
+              class="v-list theme--light"
+              role="list"
+            >
+              <div
+                role="listitem"
+              >
+                <a
+                  class="v-list__tile v-list__tile--link theme--light"
+                >
+                  <div
+                    class="v-list__tile__title"
+                  >
+                    Edit
+                  </div>
+                </a>
+              </div>
+               
+              <div
+                role="listitem"
+              >
+                <a
+                  class="v-list__tile v-list__tile--link theme--light"
+                >
+                  <div
+                    class="v-list__tile__title"
+                  >
+                    Delete
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

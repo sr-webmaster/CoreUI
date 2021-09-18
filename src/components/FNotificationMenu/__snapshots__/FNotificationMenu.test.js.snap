@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FNotificationMenu Visuals defaults 1`] = `
+<div
+  class="container grid-list-xl"
+>
+  <div
+    class="layout column"
+  >
+    <div
+      class="flex"
+    >
+      <div
+        class="v-alert warning"
+      >
+        <i
+          aria-hidden="true"
+          class="v-icon material-icons theme--light v-alert__icon"
+        >
+          priority_high
+        </i>
+        <div>
+          
+                  This component is currently in Beta. As such it can change without warning or semver Major version updates
+                
+        </div>
+      </div>
+    </div>
+     
+    <div
+      class="flex"
+    >
+      <div
+        class="v-card v-sheet theme--light"
+        style="width: 320px;"
+      >
+        <div
+          class="v-list theme--light"
+          role="list"
+        />
+      </div>
+       
+      <button
+        class="v-btn theme--light"
+        type="button"
+      >
+        <div
+          class="v-btn__content"
+        >
+          Reset
+        </div>
+      </button>
+    </div>
+  </div>
+</div>
+`;

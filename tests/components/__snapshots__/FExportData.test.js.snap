@@ -1,0 +1,281 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Export Data Visuals Props option 1`] = `
+<div
+  class="f-card-export v-card v-sheet theme--light"
+>
+  <!---->
+   
+  <!---->
+   
+  <div
+    class="v-card__text"
+  >
+    <form
+      class="v-form"
+      novalidate="novalidate"
+    >
+      <div
+        class="v-input v-input--selection-controls v-input--radio-group v-input--radio-group--column v-input--is-label-active v-input--is-dirty theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+            style="height: auto;"
+          >
+            <div
+              class="v-input--radio-group__input"
+              role="radiogroup"
+            >
+              <div
+                class="v-radio theme--light"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="PDF"
+                    name="v-radio-22"
+                    role="radio"
+                    type="radio"
+                    value="pdf"
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    radio_button_unchecked
+                  </i>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  PDF
+                </label>
+              </div>
+               
+              <div
+                class="v-radio theme--light"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="CSV"
+                    name="v-radio-22"
+                    role="radio"
+                    type="radio"
+                    value="csv"
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    radio_button_unchecked
+                  </i>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  CSV
+                </label>
+              </div>
+            </div>
+          </div>
+          <div
+            class="v-messages theme--light"
+          >
+            <div
+              class="v-messages__wrapper"
+            />
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+   
+  <div
+    class="v-card__actions"
+  >
+    <button
+      class="v-btn v-btn--block v-btn--flat theme--light secondary--text"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Cancel
+    
+      </div>
+    </button>
+     
+    <button
+      class="v-btn v-btn--block theme--light primary"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Export
+    
+      </div>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Export Data Visuals click on export button 1`] = `
+<div
+  class="f-card-export v-card v-sheet theme--light"
+>
+  <!---->
+   
+  <!---->
+   
+  <div
+    class="v-card__text"
+  >
+    <form
+      class="v-form"
+      novalidate="novalidate"
+    >
+      <div
+        class="v-input v-input--selection-controls v-input--radio-group v-input--radio-group--column v-input--is-label-active v-input--is-dirty theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+            style="height: auto;"
+          >
+            <div
+              class="v-input--radio-group__input"
+              role="radiogroup"
+            >
+              <div
+                class="v-radio theme--light"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="PDF"
+                    name="v-radio-35"
+                    role="radio"
+                    type="radio"
+                    value="pdf"
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    radio_button_unchecked
+                  </i>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  PDF
+                </label>
+              </div>
+               
+              <div
+                class="v-radio theme--light"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="CSV"
+                    name="v-radio-35"
+                    role="radio"
+                    type="radio"
+                    value="csv"
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    radio_button_unchecked
+                  </i>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  CSV
+                </label>
+              </div>
+            </div>
+          </div>
+          <div
+            class="v-messages theme--light"
+          >
+            <div
+              class="v-messages__wrapper"
+            />
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+   
+  <div
+    class="v-card__actions"
+  >
+    <button
+      class="v-btn v-btn--block v-btn--flat theme--light secondary--text"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Cancel
+    
+      </div>
+    </button>
+     
+    <button
+      class="v-btn v-btn--block theme--light primary"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Export
+    
+      </div>
+    </button>
+  </div>
+</div>
+`;

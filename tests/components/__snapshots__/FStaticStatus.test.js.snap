@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FStaticStatus snapshot default 1`] = `
+<span
+  class="v-btn v-btn--disabled success successtext--text"
+>
+  Active
+</span>
+`;
+
+exports[`FStaticStatus snapshot with custom statuses 1`] = `
+<span
+  class="v-btn v-btn--disabled accent accenttext--text"
+>
+  Draft
+</span>
+`;
+
+exports[`FStaticStatus snapshot with value 1`] = `
+<span
+  class="v-btn v-btn--disabled error errortext--text"
+>
+  Inactive
+</span>
+`;

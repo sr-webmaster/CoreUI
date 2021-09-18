@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FNavTile snapshot default 1`] = `
+<div
+  role="listitem"
+>
+  <div
+    class="v-list__tile theme--light"
+  />
+</div>
+`;
+
+exports[`FNavTile snapshot with color 1`] = `
+<div
+  role="listitem"
+  value="true"
+>
+  <div
+    class="v-list__tile v-list__tile--active theme--light info infotext--text"
+  />
+</div>
+`;

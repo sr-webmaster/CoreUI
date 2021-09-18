@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SimpleConfirm snapshot default 1`] = `
+<div
+  class="simple-confirm pa-3 v-card v-sheet theme--light"
+>
+  <div
+    class="v-card__title px-0 justify-center"
+  >
+    <div
+      class="title font-weight-bold"
+    >
+      
+        Are you hungry?
+      
+    </div>
+  </div>
+   
+  <hr
+    class="v-divider theme--light"
+  />
+   
+  <div
+    class="py-5 px-4 text-xs-center"
+  >
+    
+      Please tell us if you would like a nice hot bowl of mulligatawny soup.  It would really hit the spot!
+    
+  </div>
+   
+  <div
+    class="v-card__actions px-8"
+  >
+    <button
+      class="v-btn v-btn--block theme--light light"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Cancel
+    
+      </div>
+    </button>
+     
+    <div
+      class="spacer"
+    />
+     
+    <button
+      class="v-btn v-btn--block theme--light primary"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Ok
+    
+      </div>
+    </button>
+  </div>
+</div>
+`;

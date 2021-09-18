@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FResponsiveCard snapshot desktop 1`] = `
+<div
+  class="v-card v-sheet theme--light test-class"
+>
+  <div
+    class="slot"
+  />
+</div>
+`;
+
+exports[`FResponsiveCard snapshot mobile 1`] = `
+<ul
+  class="v-expansion-panel v-expansion-panel--focusable theme--light"
+>
+  <li
+    class="v-expansion-panel__container"
+    tabindex="0"
+  >
+    <div
+      class="v-expansion-panel__header"
+    >
+      <h3>
+        Test Title
+      </h3>
+      <div
+        class="v-expansion-panel__header__icon"
+      >
+        <i
+          aria-hidden="true"
+          class="v-icon material-icons theme--light"
+        >
+          keyboard_arrow_down
+        </i>
+      </div>
+    </div>
+    <div
+      class="v-expansion-panel__body"
+      style="display: none;"
+    >
+       
+      <hr
+        class="v-divider theme--light"
+      />
+       
+      <div
+        class="v-card v-sheet theme--light test-class"
+      >
+        <div
+          class="slot"
+        />
+      </div>
+    </div>
+  </li>
+</ul>
+`;

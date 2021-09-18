@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Group snapshot default 1`] = `
+<div
+  class="v-item-group f-page__toggle-button f-page__toggle-button--admin theme--light v-btn-toggle"
+>
+  <button
+    class="f-page__button-previous pr-4 v-btn theme--light primary"
+    type="button"
+  >
+    <div
+      class="v-btn__content"
+    >
+      <i
+        aria-hidden="true"
+        class="v-icon v-icon--left mdi mdi-chevron-left theme--dark"
+      />
+      PREV
+  
+    </div>
+  </button>
+   
+  <button
+    class="f-page__button-next pl-4 v-btn theme--light primary"
+    type="button"
+  >
+    <div
+      class="v-btn__content"
+    >
+      
+    NEXT
+      <i
+        aria-hidden="true"
+        class="v-icon v-icon--right mdi mdi-chevron-right theme--dark"
+      />
+    </div>
+  </button>
+</div>
+`;

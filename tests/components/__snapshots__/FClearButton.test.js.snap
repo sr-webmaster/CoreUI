@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FClearButton Snapshots defaults 1`] = `
+<button
+  class="mr-0 v-btn v-btn--flat v-btn--icon theme--light"
+  type="button"
+>
+  <div
+    class="v-btn__content"
+  >
+    <i
+      aria-hidden="true"
+      class="v-icon clear-button-icon fa fa fa fa-times theme--light"
+    />
+  </div>
+</button>
+`;

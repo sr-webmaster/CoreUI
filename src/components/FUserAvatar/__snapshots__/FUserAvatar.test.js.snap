@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FUserAvatar Visuals Image 1`] = `
+<div
+  class="v-avatar primary"
+  style="height: 48px; width: 48px;"
+>
+  <img
+    alt="Tim Baio"
+    src="https://placeimg.com/800/600/people"
+  />
+</div>
+`;
+
+exports[`FUserAvatar Visuals Initials 1`] = `
+<div
+  class="v-avatar primary"
+  style="height: 48px; width: 48px;"
+>
+  <span
+    class="primary-text--text"
+    style="font-size: 24px;"
+  >
+    
+    TB
+  
+  </span>
+</div>
+`;
+
+exports[`FUserAvatar Visuals No User 1`] = `
+<div
+  class="v-avatar primary"
+  style="height: 48px; width: 48px;"
+>
+  <i
+    aria-hidden="true"
+    class="v-icon material-icons theme--light primary-text--text"
+    style="font-size: 48px;"
+  >
+    account_circle
+  </i>
+</div>
+`;

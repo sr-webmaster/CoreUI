@@ -1,0 +1,239 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Button Status Visuals snapshot default 1`] = `
+<div
+  class="v-menu"
+>
+  <button
+    class="v-btn theme--dark success success-text--text"
+    type="button"
+  >
+    <div
+      class="v-btn__content"
+    >
+      
+  Active
+ 
+      <i
+        aria-hidden="true"
+        class="v-icon v-icon--right material-icons theme--dark"
+      >
+        arrow_drop_down
+      </i>
+    </div>
+  </button>
+  <div
+    class="v-menu__content theme--light "
+    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+  >
+     
+    <div
+      class="v-list theme--light"
+      role="list"
+    >
+      <div
+        role="listitem"
+      >
+        <a
+          class="v-list__tile v-list__tile--link theme--light"
+        >
+          <div
+            class="v-list__tile__title"
+          >
+            Active
+          </div>
+        </a>
+      </div>
+      <div
+        role="listitem"
+      >
+        <a
+          class="v-list__tile v-list__tile--link theme--light"
+        >
+          <div
+            class="v-list__tile__title"
+          >
+            Inactive
+          </div>
+        </a>
+      </div>
+      <div
+        role="listitem"
+      >
+        <a
+          class="v-list__tile v-list__tile--link theme--light"
+        >
+          <div
+            class="v-list__tile__title"
+          >
+            Hold
+          </div>
+        </a>
+      </div>
+      <div
+        role="listitem"
+      >
+        <a
+          class="v-list__tile v-list__tile--link theme--light"
+        >
+          <div
+            class="v-list__tile__title"
+          >
+            Pending
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`components/Button Status Visuals snapshot with props 1`] = `
+<div
+  class="v-menu"
+>
+  <button
+    class="v-btn theme--dark success success-text--text"
+    type="button"
+  >
+    <div
+      class="v-btn__content"
+    >
+      
+  One
+ 
+      <i
+        aria-hidden="true"
+        class="v-icon v-icon--right material-icons theme--dark"
+      >
+        arrow_drop_down
+      </i>
+    </div>
+  </button>
+  <div
+    class="v-menu__content theme--light "
+    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+  >
+     
+    <div
+      class="v-list theme--light"
+      role="list"
+    >
+      <div
+        role="listitem"
+      >
+        <a
+          class="v-list__tile v-list__tile--link theme--light"
+        >
+          <div
+            class="v-list__tile__title"
+          >
+            One
+          </div>
+        </a>
+      </div>
+      <div
+        role="listitem"
+      >
+        <a
+          class="v-list__tile v-list__tile--link theme--light"
+        >
+          <div
+            class="v-list__tile__title"
+          >
+            Two
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`components/Button Status Visuals snapshot with value 1`] = `
+<div
+  class="v-menu"
+>
+  <button
+    class="v-btn theme--dark success success-text--text"
+    type="button"
+  >
+    <div
+      class="v-btn__content"
+    >
+      
+  Active
+ 
+      <i
+        aria-hidden="true"
+        class="v-icon v-icon--right material-icons theme--dark"
+      >
+        arrow_drop_down
+      </i>
+    </div>
+  </button>
+  <div
+    class="v-menu__content theme--light "
+    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+  >
+     
+    <div
+      class="v-list theme--light"
+      role="list"
+    >
+      <div
+        role="listitem"
+      >
+        <a
+          class="v-list__tile v-list__tile--link theme--light"
+        >
+          <div
+            class="v-list__tile__title"
+          >
+            Active
+          </div>
+        </a>
+      </div>
+      <div
+        role="listitem"
+      >
+        <a
+          class="v-list__tile v-list__tile--link theme--light"
+        >
+          <div
+            class="v-list__tile__title"
+          >
+            Inactive
+          </div>
+        </a>
+      </div>
+      <div
+        role="listitem"
+      >
+        <a
+          class="v-list__tile v-list__tile--link theme--light"
+        >
+          <div
+            class="v-list__tile__title"
+          >
+            Hold
+          </div>
+        </a>
+      </div>
+      <div
+        role="listitem"
+      >
+        <a
+          class="v-list__tile v-list__tile--link theme--light"
+        >
+          <div
+            class="v-list__tile__title"
+          >
+            Pending
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

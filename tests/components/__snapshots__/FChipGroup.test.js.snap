@@ -1,0 +1,232 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FChipGroup Visuals snapshot default 1`] = `
+<div
+  class="f-chip-group v-card v-sheet theme--light"
+>
+  <!---->
+   
+  <!---->
+   
+  <div
+    class="v-card__text"
+  >
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 1
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 2
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 3
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 4
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 5
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 6
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 7
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 8
+    
+      </span>
+    </span>
+  </div>
+</div>
+`;
+
+exports[`FChipGroup Visuals snapshot with title 1`] = `
+<div
+  class="f-chip-group v-card v-sheet theme--light"
+  titleclass="grey--text text-uppercase font-weight-bold"
+>
+  <div
+    class="v-card__title"
+  >
+    
+    This is with a title
+  
+  </div>
+   
+  <hr
+    class="v-divider theme--light"
+  />
+   
+  <div
+    class="v-card__text"
+  >
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 1
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 2
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 3
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 4
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 5
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 6
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 7
+    
+      </span>
+    </span>
+    <span
+      class="v-chip theme--light accent accent-text--text"
+      tabindex="0"
+    >
+      <span
+        class="v-chip__content"
+      >
+        
+      Category 8
+    
+      </span>
+    </span>
+  </div>
+</div>
+`;

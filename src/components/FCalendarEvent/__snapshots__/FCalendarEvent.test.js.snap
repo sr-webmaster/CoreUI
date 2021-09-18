@@ -1,0 +1,287 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FCalendarEvent Visuals date as string 1`] = `
+<div
+  class="px-0"
+  href="/calendar/event/1"
+  role="listitem"
+>
+  <div
+    class="v-list__tile theme--light"
+  >
+    <div
+      class="v-list__tile__action v-list__tile__action--stack white--text f-calendar-event__cal text-xs-center py-0 pr-2 mr-2 pl-0"
+    >
+      <div
+        class="primary f-calendar-event__month-day"
+      >
+        <div
+          class="f-calendar-event__month"
+        >
+          
+          Jan
+        
+        </div>
+         
+        <div
+          class="f-calendar-event__date headline"
+        >
+          
+          1
+        
+        </div>
+      </div>
+       
+      <div
+        class="f-calendar-event__time secondary caption pa-1"
+      >
+        
+        9:00 AM
+      
+      </div>
+    </div>
+     
+    <div
+      class="v-list__tile__content"
+    >
+      <div
+        class="v-list__tile__title"
+      >
+        <div
+          class="f-calendar-event__title subtitle"
+        >
+          <span
+            class="primary--text"
+          >
+            
+            Happy New Year!
+          
+          </span>
+        </div>
+      </div>
+       
+      <div
+        class="v-list__tile__sub-title"
+      >
+        <div
+          class="f-calendar-event__subtitle body-2 grey--text"
+        >
+          
+          Holidays
+        
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FCalendarEvent Visuals defaults 1`] = `
+<div
+  class="px-0"
+  role="listitem"
+>
+  <div
+    class="v-list__tile theme--light"
+  >
+    <div
+      class="v-list__tile__action v-list__tile__action--stack white--text f-calendar-event__cal text-xs-center py-0 pr-2 mr-2 pl-0"
+    >
+      <div
+        class="primary f-calendar-event__month-day"
+      >
+        <div
+          class="f-calendar-event__month"
+        >
+          
+          Jun
+        
+        </div>
+         
+        <div
+          class="f-calendar-event__date headline"
+        >
+          
+          27
+        
+        </div>
+      </div>
+       
+      <div
+        class="f-calendar-event__time secondary caption pa-1"
+      >
+        
+        12:00 AM
+      
+      </div>
+    </div>
+     
+    <div
+      class="v-list__tile__content"
+    >
+      <div
+        class="v-list__tile__title"
+      >
+        <div
+          class="f-calendar-event__title subtitle"
+        >
+          <span
+            class="primary--text"
+          >
+            
+            This event is happening today, right now.
+          
+          </span>
+        </div>
+      </div>
+       
+      <div
+        class="v-list__tile__sub-title"
+      >
+        <div
+          class="f-calendar-event__subtitle body-2 grey--text"
+        >
+          
+          
+        
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FCalendarEvent Visuals with append slot 1`] = `
+<div
+  class="px-0"
+  role="listitem"
+>
+  <div
+    class="v-list__tile theme--light"
+  >
+    <div
+      class="v-list__tile__action v-list__tile__action--stack white--text f-calendar-event__cal text-xs-center py-0 pr-2 mr-2 pl-0"
+    >
+      <div
+        class="primary f-calendar-event__month-day"
+      >
+        <div
+          class="f-calendar-event__month"
+        >
+          
+          Jun
+        
+        </div>
+         
+        <div
+          class="f-calendar-event__date headline"
+        >
+          
+          27
+        
+        </div>
+      </div>
+       
+      <div
+        class="f-calendar-event__time secondary caption pa-1"
+      >
+        
+        12:00 AM
+      
+      </div>
+    </div>
+     
+    <div
+      class="v-list__tile__content"
+    >
+      <div
+        class="v-list__tile__title"
+      >
+        <div
+          class="f-calendar-event__title subtitle"
+        >
+          <span
+            class="primary--text"
+          >
+            
+            This event is happening today, right now.
+          
+          </span>
+        </div>
+      </div>
+       
+      <div
+        class="v-list__tile__sub-title"
+      >
+        <div
+          class="f-calendar-event__subtitle body-2 grey--text"
+        >
+          
+          Mind Blown
+        
+        </div>
+      </div>
+       
+      <div
+        class="v-menu"
+      >
+        <button
+          class="v-btn theme--dark primary primary-text--text"
+          type="button"
+        >
+          <div
+            class="v-btn__content"
+          >
+            Menu 
+            <i
+              aria-hidden="true"
+              class="v-icon v-icon--right material-icons theme--dark"
+            >
+              arrow_drop_down
+            </i>
+          </div>
+        </button>
+        <div
+          class="v-menu__content theme--light "
+          style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+        >
+           
+          <div
+            class="v-list theme--light"
+            role="list"
+          >
+            <div
+              role="listitem"
+            >
+              <a
+                class="v-list__tile v-list__tile--link theme--light"
+              >
+                <div
+                  class="v-list__tile__title"
+                >
+                  Item 1
+                </div>
+              </a>
+            </div>
+            <div
+              role="listitem"
+            >
+              <a
+                class="v-list__tile v-list__tile--link theme--light"
+              >
+                <div
+                  class="v-list__tile__title"
+                >
+                  Item 2
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

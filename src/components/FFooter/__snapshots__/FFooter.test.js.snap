@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FFooter Visuals defaults 1`] = `
+<footer
+  class="v-footer px-3 white--text v-footer--fixed theme--light accent"
+  style="height: 32px;"
+>
+  <div
+    class="layout row wrap"
+  >
+    <span>
+      Powered by FreshinUp
+    </span>
+     
+    <div
+      class="spacer"
+    />
+     
+    <span>
+      © 2020
+    </span>
+  </div>
+</footer>
+`;
+
+exports[`FFooter Visuals footColor property (primary) 1`] = `
+<footer
+  class="v-footer px-3 white--text v-footer--fixed theme--light primary"
+  style="height: 32px;"
+>
+  <div
+    class="layout row wrap"
+  >
+    <span>
+      Powered by FreshinUp
+    </span>
+     
+    <div
+      class="spacer"
+    />
+     
+    <span>
+      © 2020
+    </span>
+  </div>
+</footer>
+`;
+
+exports[`FFooter Visuals footColor property (secondary) 1`] = `
+<footer
+  class="v-footer px-3 white--text v-footer--fixed theme--light secondary"
+  style="height: 32px;"
+>
+  <div
+    class="layout row wrap"
+  >
+    <span>
+      Powered by FreshinUp
+    </span>
+     
+    <div
+      class="spacer"
+    />
+     
+    <span>
+      © 2020
+    </span>
+  </div>
+</footer>
+`;

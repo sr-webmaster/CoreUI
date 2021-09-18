@@ -1,0 +1,1217 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Save Report Visuals click on save report button 1`] = `
+<div
+  class="pa-3 v-card v-sheet theme--light"
+>
+  <!---->
+   
+  <!---->
+   
+  <div
+    class="v-card__text"
+  >
+    <form
+      class="v-form"
+      novalidate="novalidate"
+    >
+      <div
+        class="v-input v-text-field theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-text-field__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Report name
+              </label>
+              <input
+                aria-label="Report name"
+                type="text"
+              />
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="v-input v-text-field v-select theme--light"
+        role="combobox"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-select__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Modifier 1
+              </label>
+              <div
+                class="v-select__selections"
+              >
+                <input
+                  aria-label="Modifier 1"
+                  aria-readonly="false"
+                  autocomplete="on"
+                  readonly="readonly"
+                  type="text"
+                />
+              </div>
+              <div
+                class="v-input__append-inner"
+              >
+                <div
+                  class="v-input__icon v-input__icon--append"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    arrow_drop_down
+                  </i>
+                </div>
+              </div>
+            </div>
+            <div
+              class="v-menu"
+            >
+              <div
+                class="v-menu__content theme--light "
+                style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+              >
+                <div
+                  class="v-select-list v-card theme--light"
+                >
+                  <div
+                    class="v-list theme--light"
+                    role="list"
+                  >
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            usque
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            bianco
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="v-input v-text-field v-select theme--light"
+        role="combobox"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-select__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Modifier 2
+              </label>
+              <div
+                class="v-select__selections"
+              >
+                <input
+                  aria-label="Modifier 2"
+                  aria-readonly="false"
+                  autocomplete="on"
+                  readonly="readonly"
+                  type="text"
+                />
+              </div>
+              <div
+                class="v-input__append-inner"
+              >
+                <div
+                  class="v-input__icon v-input__icon--append"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    arrow_drop_down
+                  </i>
+                </div>
+              </div>
+            </div>
+            <div
+              class="v-menu"
+            >
+              <div
+                class="v-menu__content theme--light "
+                style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+              >
+                <div
+                  class="v-select-list v-card theme--light"
+                >
+                  <div
+                    class="v-list theme--light"
+                    role="list"
+                  >
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            leggere
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            mescolare
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="v-input v-input--selection-controls v-input--checkbox theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-input--selection-controls__input"
+            >
+              <input
+                aria-checked="false"
+                aria-label="Save as Featured"
+                role="checkbox"
+                type="checkbox"
+                value=""
+              />
+              <div
+                class="v-input--selection-controls__ripple"
+              />
+              <i
+                aria-hidden="true"
+                class="v-icon material-icons theme--light"
+              >
+                check_box_outline_blank
+              </i>
+            </div>
+            <label
+              aria-hidden="true"
+              class="v-label theme--light"
+              style="left: 0px; position: relative;"
+            >
+              Save as Featured
+            </label>
+          </div>
+          <div
+            class="v-messages theme--light"
+          >
+            <div
+              class="v-messages__wrapper"
+            />
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+   
+  <div
+    class="v-card__actions"
+  >
+    <button
+      class="v-btn v-btn--block v-btn--flat theme--light secondary--text"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Cancel
+    
+      </div>
+    </button>
+     
+    <div
+      class="spacer"
+    />
+     
+    <button
+      class="v-btn v-btn--block theme--light primary primary-text--text"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Save
+    
+      </div>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Save Report Visuals hideModifiers is false 1`] = `
+<div
+  class="pa-3 v-card v-sheet theme--light"
+>
+  <!---->
+   
+  <!---->
+   
+  <div
+    class="v-card__text"
+  >
+    <form
+      class="v-form"
+      novalidate="novalidate"
+    >
+      <div
+        class="v-input v-text-field theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-text-field__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Report name
+              </label>
+              <input
+                aria-label="Report name"
+                type="text"
+              />
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="v-input v-text-field v-select v-input--is-label-active v-input--is-dirty theme--light"
+        role="combobox"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-select__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label v-label--active theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Modifier 1
+              </label>
+              <div
+                class="v-select__selections"
+              >
+                <div
+                  class="v-select__selection v-select__selection--comma"
+                >
+                  null
+                </div>
+                <input
+                  aria-label="Modifier 1"
+                  aria-readonly="false"
+                  autocomplete="on"
+                  readonly="readonly"
+                  type="text"
+                />
+              </div>
+              <div
+                class="v-input__append-inner"
+              >
+                <div
+                  class="v-input__icon v-input__icon--append"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    arrow_drop_down
+                  </i>
+                </div>
+              </div>
+            </div>
+            <div
+              class="v-menu"
+            >
+              <div
+                class="v-menu__content theme--light "
+                style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+              >
+                <div
+                  class="v-select-list v-card theme--light"
+                >
+                  <div
+                    class="v-list theme--light"
+                    role="list"
+                  >
+                    <div
+                      class="primary--text"
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link v-list__tile--active theme--light primary--text"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            null
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="v-input v-text-field v-select v-input--is-label-active v-input--is-dirty theme--light"
+        role="combobox"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-select__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label v-label--active theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Modifier 2
+              </label>
+              <div
+                class="v-select__selections"
+              >
+                <div
+                  class="v-select__selection v-select__selection--comma"
+                >
+                  null
+                </div>
+                <input
+                  aria-label="Modifier 2"
+                  aria-readonly="false"
+                  autocomplete="on"
+                  readonly="readonly"
+                  type="text"
+                />
+              </div>
+              <div
+                class="v-input__append-inner"
+              >
+                <div
+                  class="v-input__icon v-input__icon--append"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    arrow_drop_down
+                  </i>
+                </div>
+              </div>
+            </div>
+            <div
+              class="v-menu"
+            >
+              <div
+                class="v-menu__content theme--light "
+                style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+              >
+                <div
+                  class="v-select-list v-card theme--light"
+                >
+                  <div
+                    class="v-list theme--light"
+                    role="list"
+                  >
+                    <div
+                      class="primary--text"
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link v-list__tile--active theme--light primary--text"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            null
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="v-input v-input--selection-controls v-input--checkbox theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-input--selection-controls__input"
+            >
+              <input
+                aria-checked="false"
+                aria-label="Save as Featured"
+                role="checkbox"
+                type="checkbox"
+                value=""
+              />
+              <div
+                class="v-input--selection-controls__ripple"
+              />
+              <i
+                aria-hidden="true"
+                class="v-icon material-icons theme--light"
+              >
+                check_box_outline_blank
+              </i>
+            </div>
+            <label
+              aria-hidden="true"
+              class="v-label theme--light"
+              style="left: 0px; position: relative;"
+            >
+              Save as Featured
+            </label>
+          </div>
+          <div
+            class="v-messages theme--light"
+          >
+            <div
+              class="v-messages__wrapper"
+            />
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+   
+  <div
+    class="v-card__actions"
+  >
+    <button
+      class="v-btn v-btn--block v-btn--flat theme--light secondary--text"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Cancel
+    
+      </div>
+    </button>
+     
+    <div
+      class="spacer"
+    />
+     
+    <button
+      class="v-btn v-btn--block theme--light primary primary-text--text"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Save
+    
+      </div>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Save Report Visuals hideModifiers is true 1`] = `
+<div
+  class="pa-3 v-card v-sheet theme--light"
+>
+  <!---->
+   
+  <!---->
+   
+  <div
+    class="v-card__text"
+  >
+    <form
+      class="v-form"
+      novalidate="novalidate"
+    >
+      <div
+        class="v-input v-text-field theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-text-field__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Report name
+              </label>
+              <input
+                aria-label="Report name"
+                type="text"
+              />
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <!---->
+       
+      <!---->
+       
+      <div
+        class="v-input v-input--selection-controls v-input--checkbox theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-input--selection-controls__input"
+            >
+              <input
+                aria-checked="false"
+                aria-label="Save as Featured"
+                role="checkbox"
+                type="checkbox"
+                value=""
+              />
+              <div
+                class="v-input--selection-controls__ripple"
+              />
+              <i
+                aria-hidden="true"
+                class="v-icon material-icons theme--light"
+              >
+                check_box_outline_blank
+              </i>
+            </div>
+            <label
+              aria-hidden="true"
+              class="v-label theme--light"
+              style="left: 0px; position: relative;"
+            >
+              Save as Featured
+            </label>
+          </div>
+          <div
+            class="v-messages theme--light"
+          >
+            <div
+              class="v-messages__wrapper"
+            />
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+   
+  <div
+    class="v-card__actions"
+  >
+    <button
+      class="v-btn v-btn--block v-btn--flat theme--light secondary--text"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Cancel
+    
+      </div>
+    </button>
+     
+    <div
+      class="spacer"
+    />
+     
+    <button
+      class="v-btn v-btn--block theme--light primary primary-text--text"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Save
+    
+      </div>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Save Report Visuals itemsOne and itemsTwo 1`] = `
+<div
+  class="pa-3 v-card v-sheet theme--light"
+>
+  <!---->
+   
+  <!---->
+   
+  <div
+    class="v-card__text"
+  >
+    <form
+      class="v-form"
+      novalidate="novalidate"
+    >
+      <div
+        class="v-input v-text-field theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-text-field__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Report name
+              </label>
+              <input
+                aria-label="Report name"
+                type="text"
+              />
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="v-input v-text-field v-select theme--light"
+        role="combobox"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-select__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Modifier 1
+              </label>
+              <div
+                class="v-select__selections"
+              >
+                <input
+                  aria-label="Modifier 1"
+                  aria-readonly="false"
+                  autocomplete="on"
+                  readonly="readonly"
+                  type="text"
+                />
+              </div>
+              <div
+                class="v-input__append-inner"
+              >
+                <div
+                  class="v-input__icon v-input__icon--append"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    arrow_drop_down
+                  </i>
+                </div>
+              </div>
+            </div>
+            <div
+              class="v-menu"
+            >
+              <div
+                class="v-menu__content theme--light "
+                style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+              >
+                <div
+                  class="v-select-list v-card theme--light"
+                >
+                  <div
+                    class="v-list theme--light"
+                    role="list"
+                  >
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            usque
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            bianco
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="v-input v-text-field v-select theme--light"
+        role="combobox"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-select__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Modifier 2
+              </label>
+              <div
+                class="v-select__selections"
+              >
+                <input
+                  aria-label="Modifier 2"
+                  aria-readonly="false"
+                  autocomplete="on"
+                  readonly="readonly"
+                  type="text"
+                />
+              </div>
+              <div
+                class="v-input__append-inner"
+              >
+                <div
+                  class="v-input__icon v-input__icon--append"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    arrow_drop_down
+                  </i>
+                </div>
+              </div>
+            </div>
+            <div
+              class="v-menu"
+            >
+              <div
+                class="v-menu__content theme--light "
+                style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+              >
+                <div
+                  class="v-select-list v-card theme--light"
+                >
+                  <div
+                    class="v-list theme--light"
+                    role="list"
+                  >
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            leggere
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            mescolare
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="v-input v-input--selection-controls v-input--checkbox theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-input--selection-controls__input"
+            >
+              <input
+                aria-checked="false"
+                aria-label="Save as Featured"
+                role="checkbox"
+                type="checkbox"
+                value=""
+              />
+              <div
+                class="v-input--selection-controls__ripple"
+              />
+              <i
+                aria-hidden="true"
+                class="v-icon material-icons theme--light"
+              >
+                check_box_outline_blank
+              </i>
+            </div>
+            <label
+              aria-hidden="true"
+              class="v-label theme--light"
+              style="left: 0px; position: relative;"
+            >
+              Save as Featured
+            </label>
+          </div>
+          <div
+            class="v-messages theme--light"
+          >
+            <div
+              class="v-messages__wrapper"
+            />
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+   
+  <div
+    class="v-card__actions"
+  >
+    <button
+      class="v-btn v-btn--block v-btn--flat theme--light secondary--text"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Cancel
+    
+      </div>
+    </button>
+     
+    <div
+      class="spacer"
+    />
+     
+    <button
+      class="v-btn v-btn--block theme--light primary primary-text--text"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Save
+    
+      </div>
+    </button>
+  </div>
+</div>
+`;

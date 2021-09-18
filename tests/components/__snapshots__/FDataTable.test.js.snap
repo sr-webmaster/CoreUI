@@ -1,0 +1,760 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Data Table visuals shows header slot when multiple items are selected 1`] = `
+<div>
+  <div
+    class="ui-datatable elevation-1"
+  >
+    <div
+      class="v-table__overflow"
+    >
+      <table
+        class="v-datatable v-table v-datatable--select-all theme--light"
+      >
+        <thead>
+          <tr>
+            <th>
+              <div
+                class="v-input v-input--selection-controls v-input--checkbox v-input--hide-details v-input--is-label-active v-input--is-dirty theme--light"
+              >
+                <div
+                  class="v-input__control"
+                >
+                  <div
+                    class="v-input__slot"
+                  >
+                    <div
+                      class="v-input--selection-controls__input"
+                    >
+                      <input
+                        aria-checked="true"
+                        role="checkbox"
+                        type="checkbox"
+                        value=""
+                      />
+                      <div
+                        class="v-input--selection-controls__ripple"
+                      />
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light"
+                      >
+                        check_box
+                      </i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </th>
+            <th
+              aria-label="Id: Not sorted. Activate to sort ascending."
+              aria-sort="none"
+              class="column sortable text-xs-left"
+              role="columnheader"
+              scope="col"
+              tabindex="0"
+            >
+              <div
+                class="element-to-find"
+              />
+              <i
+                aria-hidden="true"
+                class="v-icon material-icons theme--light"
+                style="font-size: 16px;"
+              >
+                arrow_upward
+              </i>
+            </th>
+          </tr>
+          <tr
+            class="v-datatable__progress"
+          >
+            <th
+              class="column"
+              colspan="2"
+            />
+          </tr>
+        </thead>
+        <tbody>
+          <tr
+            active="true"
+          >
+            <td>
+              <div
+                class="v-input v-input--selection-controls v-input--checkbox v-input--hide-details v-input--is-label-active v-input--is-dirty theme--light"
+                primary=""
+              >
+                <div
+                  class="v-input__control"
+                >
+                  <div
+                    class="v-input__slot"
+                  >
+                    <div
+                      class="v-input--selection-controls__input"
+                    >
+                      <input
+                        aria-checked="true"
+                        primary=""
+                        role="checkbox"
+                        type="checkbox"
+                        value=""
+                      />
+                      <div
+                        class="v-input--selection-controls__ripple accent--text"
+                      />
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light accent--text"
+                      >
+                        check_box
+                      </i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </td>
+             
+            <td
+              class="text-xs-left"
+            >
+              
+              1
+            
+            </td>
+          </tr>
+          <tr
+            active="true"
+          >
+            <td>
+              <div
+                class="v-input v-input--selection-controls v-input--checkbox v-input--hide-details v-input--is-label-active v-input--is-dirty theme--light"
+                primary=""
+              >
+                <div
+                  class="v-input__control"
+                >
+                  <div
+                    class="v-input__slot"
+                  >
+                    <div
+                      class="v-input--selection-controls__input"
+                    >
+                      <input
+                        aria-checked="true"
+                        primary=""
+                        role="checkbox"
+                        type="checkbox"
+                        value=""
+                      />
+                      <div
+                        class="v-input--selection-controls__ripple accent--text"
+                      />
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light accent--text"
+                      >
+                        check_box
+                      </i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </td>
+             
+            <td
+              class="text-xs-left"
+            >
+              
+              2
+            
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+   
+  <div
+    class="layout align-center"
+  >
+    <div
+      class="flex grow justify-center"
+    >
+      <div
+        class="layout justify-center"
+      >
+        <ul
+          class="v-pagination theme--light"
+        >
+          <li>
+            <button
+              class="v-pagination__navigation v-pagination__navigation--disabled"
+              type="button"
+            >
+              <i
+                aria-hidden="true"
+                class="v-icon material-icons theme--light"
+              >
+                chevron_left
+              </i>
+            </button>
+          </li>
+          <li>
+            <button
+              class="v-pagination__item v-pagination__item--active primary"
+              type="button"
+            >
+              1
+            </button>
+          </li>
+          <li>
+            <button
+              class="v-pagination__navigation v-pagination__navigation--disabled"
+              type="button"
+            >
+              <i
+                aria-hidden="true"
+                class="v-icon material-icons theme--light"
+              >
+                chevron_right
+              </i>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+     
+    <div
+      class="flex shrink"
+    >
+      <div
+        class="v-input v-text-field v-select v-input--is-label-active v-input--is-dirty theme--light"
+        role="combobox"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-select__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label v-label--active theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Results Per Page
+              </label>
+              <div
+                class="v-select__selections"
+              >
+                <div
+                  class="v-select__selection v-select__selection--comma"
+                >
+                  10
+                </div>
+                <input
+                  aria-label="Results Per Page"
+                  aria-readonly="false"
+                  autocomplete="on"
+                  readonly="readonly"
+                  type="text"
+                />
+              </div>
+              <div
+                class="v-input__append-inner"
+              >
+                <div
+                  class="v-input__icon v-input__icon--append"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    arrow_drop_down
+                  </i>
+                </div>
+              </div>
+            </div>
+            <div
+              class="v-menu"
+            >
+              <div
+                class="v-menu__content theme--light "
+                style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+              >
+                <div
+                  class="v-select-list v-card theme--light"
+                >
+                  <div
+                    class="v-list theme--light"
+                    role="list"
+                  >
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            5
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      class="primary--text"
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link v-list__tile--active theme--light primary--text"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            10
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            15
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            25
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            30
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            50
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Data Table visuals snapshot default 1`] = `
+<div>
+  <div
+    class="ui-datatable elevation-1"
+  >
+    <div
+      class="v-table__overflow"
+    >
+      <table
+        class="v-datatable v-table v-datatable--select-all theme--light"
+      >
+        <thead>
+          <tr>
+            <th>
+              <div
+                class="v-input v-input--selection-controls v-input--checkbox v-input--hide-details theme--light"
+              >
+                <div
+                  class="v-input__control"
+                >
+                  <div
+                    class="v-input__slot"
+                  >
+                    <div
+                      class="v-input--selection-controls__input"
+                    >
+                      <input
+                        aria-checked="false"
+                        role="checkbox"
+                        type="checkbox"
+                        value=""
+                      />
+                      <div
+                        class="v-input--selection-controls__ripple"
+                      />
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light"
+                      >
+                        check_box_outline_blank
+                      </i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </th>
+            <th
+              aria-label="ID: Not sorted."
+              aria-sort="none"
+              class="column text-xs-center"
+              role="columnheader"
+              scope="col"
+            >
+              <span>
+                
+        ID
+      
+              </span>
+            </th>
+            <th
+              aria-label="Manage: Not sorted."
+              aria-sort="none"
+              class="column text-xs-center"
+              role="columnheader"
+              scope="col"
+            >
+              <span>
+                
+        Manage
+      
+              </span>
+            </th>
+          </tr>
+          <tr
+            class="v-datatable__progress"
+          >
+            <th
+              class="column"
+              colspan="3"
+            />
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td
+              class="text-xs-center"
+              colspan="3"
+            >
+              No matching records found
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+   
+  <div
+    class="layout align-center"
+  >
+    <div
+      class="flex grow justify-center"
+    >
+      <div
+        class="layout justify-center"
+      >
+        <ul
+          class="v-pagination theme--light"
+        >
+          <li>
+            <button
+              class="v-pagination__navigation v-pagination__navigation--disabled"
+              type="button"
+            >
+              <i
+                aria-hidden="true"
+                class="v-icon material-icons theme--light"
+              >
+                chevron_left
+              </i>
+            </button>
+          </li>
+          <li>
+            <button
+              class="v-pagination__item v-pagination__item--active primary"
+              type="button"
+            >
+              1
+            </button>
+          </li>
+          <li>
+            <button
+              class="v-pagination__navigation v-pagination__navigation--disabled"
+              type="button"
+            >
+              <i
+                aria-hidden="true"
+                class="v-icon material-icons theme--light"
+              >
+                chevron_right
+              </i>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+     
+    <div
+      class="flex shrink"
+    >
+      <div
+        class="v-input v-text-field v-select v-input--is-label-active v-input--is-dirty theme--light"
+        role="combobox"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-select__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label v-label--active theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Results Per Page
+              </label>
+              <div
+                class="v-select__selections"
+              >
+                <div
+                  class="v-select__selection v-select__selection--comma"
+                >
+                  10
+                </div>
+                <input
+                  aria-label="Results Per Page"
+                  aria-readonly="false"
+                  autocomplete="on"
+                  readonly="readonly"
+                  type="text"
+                />
+              </div>
+              <div
+                class="v-input__append-inner"
+              >
+                <div
+                  class="v-input__icon v-input__icon--append"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    arrow_drop_down
+                  </i>
+                </div>
+              </div>
+            </div>
+            <div
+              class="v-menu"
+            >
+              <div
+                class="v-menu__content theme--light "
+                style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+              >
+                <div
+                  class="v-select-list v-card theme--light"
+                >
+                  <div
+                    class="v-list theme--light"
+                    role="list"
+                  >
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            5
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      class="primary--text"
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link v-list__tile--active theme--light primary--text"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            10
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            15
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            25
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            30
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div
+                      role="listitem"
+                    >
+                      <a
+                        class="v-list__tile v-list__tile--link theme--light"
+                      >
+                        <div
+                          class="v-list__tile__content"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            50
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

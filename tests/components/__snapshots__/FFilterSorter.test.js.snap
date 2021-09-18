@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filter Sorter Snapshots default 1`] = `
+<div
+  class="f-filter-sorter v-card v-sheet theme--light"
+>
+  <form
+    class="v-form"
+    novalidate="novalidate"
+  >
+    <div
+      class="container fluid"
+    >
+       
+      <div
+        class="layout f-filter-sorter__main-layout row wrap"
+      >
+        <div
+          class="flex shrink"
+        >
+          <div
+            class="v-card__text"
+          >
+            Filter:
+          </div>
+        </div>
+         
+        <div
+          class="flex grow"
+        >
+          <div
+            class="v-input v-text-field v-text-field--single-line v-text-field--solo v-text-field--solo-flat v-text-field--enclosed v-text-field--placeholder theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <input
+                    placeholder="Start typing to Search"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <!---->
+         
+        <!---->
+         
+      </div>
+       
+      <!---->
+       
+      <div
+        class="layout f-filter-sorter__expanded-layout align-center justify-center row fill-height"
+        style="display: none;"
+      >
+        <div
+          class="flex"
+        />
+         
+        <div
+          class="flex text-no-wrap"
+        >
+          <button
+            class="v-btn v-btn--large theme--light undefined-text--text"
+            type="button"
+          >
+            <div
+              class="v-btn__content"
+            >
+              
+            Clear Filters
+          
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;

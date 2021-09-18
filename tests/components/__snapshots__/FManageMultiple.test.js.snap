@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Manage Multiple snapshot default 1`] = `
+<div
+  class="v-menu"
+>
+  <button
+    class="v-btn v-btn--disabled theme--light primary--text"
+    disabled="disabled"
+    type="button"
+  >
+    <div
+      class="v-btn__content"
+    >
+      
+  Manage Multiple
+ 
+      <!---->
+    </div>
+  </button>
+  <div
+    class="v-menu__content theme--light "
+    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+  >
+     
+    <div
+      class="v-list theme--light"
+      role="list"
+    />
+  </div>
+</div>
+`;
+
+exports[`Manage Multiple snapshot with items 1`] = `
+<div
+  class="v-menu"
+>
+  <button
+    class="v-btn theme--dark primary primary-text--text"
+    type="button"
+  >
+    <div
+      class="v-btn__content"
+    >
+      
+  Manage Multiple
+ 
+      <i
+        aria-hidden="true"
+        class="v-icon v-icon--right material-icons theme--dark"
+      >
+        arrow_drop_down
+      </i>
+    </div>
+  </button>
+  <div
+    class="v-menu__content theme--light "
+    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+  >
+     
+    <div
+      class="v-list theme--light"
+      role="list"
+    >
+      <div
+        role="listitem"
+      >
+        <a
+          class="v-list__tile v-list__tile--link theme--light"
+        >
+          <div
+            class="v-list__tile__title"
+          >
+            Item 1
+          </div>
+        </a>
+      </div>
+      <div
+        role="listitem"
+      >
+        <a
+          class="v-list__tile v-list__tile--link theme--light"
+        >
+          <div
+            class="v-list__tile__title"
+          >
+            Item 2
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Manage Multiple snapshot with one items 1`] = `
+<button
+  class="v-btn theme--light primary primary-text--text"
+  type="button"
+>
+  <div
+    class="v-btn__content"
+  >
+    
+  Item 1
+
+  </div>
+</button>
+`;

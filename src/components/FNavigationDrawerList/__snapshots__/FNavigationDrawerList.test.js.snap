@@ -1,0 +1,303 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ColoredFNavigationDrawerList snapshot default 1`] = `
+<div
+  class="v-list theme--light"
+  role="list"
+>
+  <div
+    role="listitem"
+  >
+    <router-link
+      class="v-list__tile v-list__tile--link theme--light"
+    >
+      <div
+        class="v-list__tile__action"
+      >
+        <i
+          aria-hidden="true"
+          class="v-icon far fa-user theme--light"
+        />
+      </div>
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Users
+        </div>
+      </div>
+    </router-link>
+  </div>
+  <div
+    role="listitem"
+  >
+    <router-link
+      class="v-list__tile v-list__tile--link theme--light"
+    >
+      <div
+        class="v-list__tile__action"
+      >
+        <i
+          aria-hidden="true"
+          class="v-icon material-icons theme--light"
+        />
+      </div>
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Teams
+        </div>
+      </div>
+    </router-link>
+  </div>
+  <div
+    role="listitem"
+  >
+    <router-link
+      class="v-list__tile v-list__tile--link theme--light"
+    >
+      <div
+        class="v-list__tile__action"
+      >
+        <i
+          aria-hidden="true"
+          class="v-icon material-icons theme--light"
+        />
+      </div>
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Companies
+        </div>
+      </div>
+    </router-link>
+  </div>
+</div>
+`;
+
+exports[`ColoredFNavigationDrawerList snapshot no actions 1`] = `
+<div
+  class="v-list theme--light"
+  role="list"
+>
+  <div
+    role="listitem"
+  >
+    <router-link
+      class="v-list__tile v-list__tile--link theme--light"
+    >
+      <!---->
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Users
+        </div>
+      </div>
+    </router-link>
+  </div>
+  <div
+    role="listitem"
+  >
+    <router-link
+      class="v-list__tile v-list__tile--link theme--light"
+    >
+      <!---->
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Teams
+        </div>
+      </div>
+    </router-link>
+  </div>
+  <div
+    role="listitem"
+  >
+    <router-link
+      class="v-list__tile v-list__tile--link theme--light"
+    >
+      <!---->
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Companies
+        </div>
+      </div>
+    </router-link>
+  </div>
+</div>
+`;
+
+exports[`FNavigationDrawerList snapshot default 1`] = `
+<div
+  class="v-list theme--light"
+  role="list"
+>
+  <div
+    role="listitem"
+  >
+    <router-link
+      class="v-list__tile v-list__tile--link theme--light"
+    >
+      <div
+        class="v-list__tile__action"
+      >
+        <i
+          aria-hidden="true"
+          class="v-icon far fa-user theme--light"
+        />
+      </div>
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Users
+        </div>
+      </div>
+    </router-link>
+  </div>
+  <div
+    role="listitem"
+  >
+    <router-link
+      class="v-list__tile v-list__tile--link theme--light"
+    >
+      <div
+        class="v-list__tile__action"
+      >
+        <i
+          aria-hidden="true"
+          class="v-icon material-icons theme--light"
+        />
+      </div>
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Teams
+        </div>
+      </div>
+    </router-link>
+  </div>
+  <div
+    role="listitem"
+  >
+    <router-link
+      class="v-list__tile v-list__tile--link theme--light"
+    >
+      <div
+        class="v-list__tile__action"
+      >
+        <i
+          aria-hidden="true"
+          class="v-icon material-icons theme--light"
+        />
+      </div>
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Companies
+        </div>
+      </div>
+    </router-link>
+  </div>
+</div>
+`;
+
+exports[`FNavigationDrawerList snapshot no actions 1`] = `
+<div
+  class="v-list theme--light"
+  role="list"
+>
+  <div
+    role="listitem"
+  >
+    <router-link
+      class="v-list__tile v-list__tile--link theme--light"
+    >
+      <!---->
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Users
+        </div>
+      </div>
+    </router-link>
+  </div>
+  <div
+    role="listitem"
+  >
+    <router-link
+      class="v-list__tile v-list__tile--link theme--light"
+    >
+      <!---->
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Teams
+        </div>
+      </div>
+    </router-link>
+  </div>
+  <div
+    role="listitem"
+  >
+    <router-link
+      class="v-list__tile v-list__tile--link theme--light"
+    >
+      <!---->
+       
+      <div
+        class="v-list__tile__content"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Companies
+        </div>
+      </div>
+    </router-link>
+  </div>
+</div>
+`;

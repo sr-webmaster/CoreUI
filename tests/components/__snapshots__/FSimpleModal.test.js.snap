@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SimpleModal snapshot default 1`] = `
+<div
+  class="pa-3 v-card v-sheet theme--light"
+>
+  <div
+    class="v-card__title px-0 justify-center"
+  >
+    <div
+      class="title font-weight-bold"
+    >
+      
+      Thank you for your request
+    
+    </div>
+  </div>
+   
+  <hr
+    class="v-divider theme--light"
+  />
+   
+  <div
+    class="py-5 px-4 text-xs-center"
+  >
+    
+    Please stand by for admin validation
+  
+  </div>
+   
+  <div
+    class="layout row"
+  >
+    <div
+      class="flex xs6 offset-xs3"
+    >
+      <div
+        class="v-card__actions px-8"
+      >
+        <button
+          class="v-btn v-btn--block theme--light primary"
+          type="button"
+        >
+          <div
+            class="v-btn__content"
+          >
+            
+          Ok
+        
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

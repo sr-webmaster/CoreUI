@@ -1,0 +1,366 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserMenu Snapshots consumerView false 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+>
+  <div
+    class="layout pa-3 row"
+  >
+    <div
+      class="flex shrink"
+    >
+      <div
+        class="v-avatar accent"
+        style="height: 64px; width: 64px;"
+      >
+        <img
+          alt="Demo Admin"
+          src="https://i.pravatar.cc/300"
+        />
+      </div>
+    </div>
+     
+    <div
+      class="flex pl-3"
+    >
+      <h4
+        class="title secondary--text"
+      >
+        
+        Demo Admin
+      
+      </h4>
+       
+      <span
+        class="v-chip mx-0 pl-3 pr-3 f-userMenu__userLevel v-chip--disabled v-chip--small theme--light secondary white--text"
+        tabindex="-1"
+      >
+        <span
+          class="v-chip__content"
+        >
+          
+        Platform Admin
+      
+        </span>
+      </span>
+       
+      <div>
+        <!---->
+        
+          Laravel
+        
+      </div>
+    </div>
+  </div>
+   
+  <hr
+    class="v-divider theme--light"
+  />
+   
+  <div
+    class="v-list pb-0 theme--light"
+    role="list"
+  >
+     
+    <!---->
+     
+    <hr
+      class="v-divider theme--light"
+    />
+     
+    <div
+      role="listitem"
+    >
+      <a
+        class="v-list__tile v-list__tile--link theme--light"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Sign Out
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`UserMenu Snapshots default 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+>
+  <div
+    class="layout pa-3 row"
+  >
+    <div
+      class="flex shrink"
+    >
+      <div
+        class="v-avatar accent"
+        style="height: 64px; width: 64px;"
+      >
+        <img
+          alt="Demo Admin"
+          src="https://i.pravatar.cc/300"
+        />
+      </div>
+    </div>
+     
+    <div
+      class="flex pl-3"
+    >
+      <h4
+        class="title secondary--text"
+      >
+        
+        Demo Admin
+      
+      </h4>
+       
+      <span
+        class="v-chip mx-0 pl-3 pr-3 f-userMenu__userLevel v-chip--disabled v-chip--small theme--light secondary white--text"
+        tabindex="-1"
+      >
+        <span
+          class="v-chip__content"
+        >
+          
+        Platform Admin
+      
+        </span>
+      </span>
+       
+      <div>
+        <!---->
+        
+          Laravel
+        
+      </div>
+    </div>
+  </div>
+   
+  <hr
+    class="v-divider theme--light"
+  />
+   
+  <div
+    class="v-list pb-0 theme--light"
+    role="list"
+  >
+     
+    <div
+      role="listitem"
+    >
+      <a
+        class="v-list__tile v-list__tile--link theme--light"
+        href="/admin"
+      >
+        
+        Switch to Admin View
+      
+      </a>
+    </div>
+     
+    <hr
+      class="v-divider theme--light"
+    />
+     
+    <div
+      role="listitem"
+    >
+      <a
+        class="v-list__tile v-list__tile--link theme--light"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Sign Out
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`UserMenu Snapshots hideLevel true 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+>
+  <div
+    class="layout pa-3 row"
+  >
+    <div
+      class="flex shrink"
+    >
+      <div
+        class="v-avatar accent"
+        style="height: 64px; width: 64px;"
+      >
+        <img
+          alt="Demo Admin"
+          src="https://i.pravatar.cc/300"
+        />
+      </div>
+    </div>
+     
+    <div
+      class="flex pl-3"
+    >
+      <h4
+        class="title secondary--text"
+      >
+        
+        Demo Admin
+      
+      </h4>
+       
+      <!---->
+       
+      <div>
+        <!---->
+        
+          Laravel
+        
+      </div>
+    </div>
+  </div>
+   
+  <hr
+    class="v-divider theme--light"
+  />
+   
+  <div
+    class="v-list pb-0 theme--light"
+    role="list"
+  >
+     
+    <div
+      role="listitem"
+    >
+      <a
+        class="v-list__tile v-list__tile--link theme--light"
+        href="/admin"
+      >
+        
+        Switch to Admin View
+      
+      </a>
+    </div>
+     
+    <hr
+      class="v-divider theme--light"
+    />
+     
+    <div
+      role="listitem"
+    >
+      <a
+        class="v-list__tile v-list__tile--link theme--light"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Sign Out
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`UserMenu Snapshots userField email 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+>
+  <div
+    class="layout pa-3 row"
+  >
+    <div
+      class="flex shrink"
+    >
+      <div
+        class="v-avatar accent"
+        style="height: 64px; width: 64px;"
+      >
+        <img
+          alt="Demo Admin"
+          src="https://i.pravatar.cc/300"
+        />
+      </div>
+    </div>
+     
+    <div
+      class="flex pl-3"
+    >
+      <h4
+        class="title secondary--text"
+      >
+        
+        Demo Admin
+      
+      </h4>
+       
+      <span
+        class="v-chip mx-0 pl-3 pr-3 f-userMenu__userLevel v-chip--disabled v-chip--small theme--light secondary white--text"
+        tabindex="-1"
+      >
+        <span
+          class="v-chip__content"
+        >
+          
+        Platform Admin
+      
+        </span>
+      </span>
+       
+      <div>
+        
+          demoAdmin@example.com
+        
+      </div>
+    </div>
+  </div>
+   
+  <hr
+    class="v-divider theme--light"
+  />
+   
+  <div
+    class="v-list pb-0 theme--light"
+    role="list"
+  >
+     
+    <div
+      role="listitem"
+    >
+      <a
+        class="v-list__tile v-list__tile--link theme--light"
+        href="/admin"
+      >
+        
+        Switch to Admin View
+      
+      </a>
+    </div>
+     
+    <hr
+      class="v-divider theme--light"
+    />
+     
+    <div
+      role="listitem"
+    >
+      <a
+        class="v-list__tile v-list__tile--link theme--light"
+      >
+        <div
+          class="v-list__tile__title"
+        >
+          Sign Out
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+`;

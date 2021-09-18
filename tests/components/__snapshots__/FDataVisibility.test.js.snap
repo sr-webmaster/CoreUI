@@ -1,0 +1,939 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FDataVisibility inside dialog 1`] = `
+<div
+  class="full-width csm-data-visibility"
+>
+  <div
+    class="pa-4 pb-100 v-card v-sheet theme--light"
+  >
+    <div
+      class="layout row justify-space-between"
+    >
+      <h2>
+        Data visibility
+      </h2>
+       
+      <button
+        class="mr-0 mt-0 small-btn v-btn v-btn--icon v-btn--large theme--light"
+        type="button"
+      >
+        <div
+          class="v-btn__content"
+        >
+          <i
+            aria-hidden="true"
+            class="v-icon grey--text far fa-times-circle theme--light"
+          />
+        </div>
+      </button>
+    </div>
+     
+    <ul
+      class="v-expansion-panel mt-0 mb-3 theme--light"
+    >
+      <li
+        class="v-expansion-panel__container"
+        tabindex="0"
+      >
+        <div
+          class="v-expansion-panel__header"
+        >
+          <div
+            class="title"
+          >
+            
+            Active
+          
+          </div>
+          <div
+            class="v-expansion-panel__header__icon"
+          >
+            <button
+              class="v-btn v-btn--flat v-btn--small theme--light"
+              type="button"
+            >
+              <div
+                class="v-btn__content"
+              >
+                
+            clear
+          
+              </div>
+            </button>
+             
+            <i
+              aria-hidden="true"
+              class="v-icon material-icons theme--light"
+              style="font-size: 16px;"
+            >
+              keyboard_arrow_down
+            </i>
+          </div>
+        </div>
+        <div
+          class="v-expansion-panel__body"
+          style="display: none;"
+        >
+            
+          <div
+            class="mt-4"
+          >
+            <div>
+              <div
+                class="layout dotted-bottom mt-2 row"
+              >
+                <div
+                  class="v-input my-0 v-input--selection-controls v-input--checkbox v-input--is-label-active v-input--is-dirty theme--light"
+                >
+                  <div
+                    class="v-input__prepend-outer"
+                  >
+                    <div
+                      class="v-input__icon v-input__icon--prepend"
+                    >
+                      <i
+                        aria-hidden="true"
+                        class="v-icon fa fa-th theme--light"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="v-input__control"
+                  >
+                    <div
+                      class="v-input__slot"
+                    >
+                      <div
+                        class="v-input--selection-controls__input"
+                      >
+                        <input
+                          aria-checked="true"
+                          aria-label="Status"
+                          role="checkbox"
+                          type="checkbox"
+                          value="status"
+                        />
+                        <div
+                          class="v-input--selection-controls__ripple primary--text"
+                        />
+                        <i
+                          aria-hidden="true"
+                          class="v-icon material-icons theme--light primary--text"
+                        >
+                          check_box
+                        </i>
+                      </div>
+                      <label
+                        aria-hidden="true"
+                        class="v-label theme--light"
+                        style="left: 0px; position: relative;"
+                      >
+                        Status
+                      </label>
+                    </div>
+                    <div
+                      class="v-messages theme--light"
+                    >
+                      <div
+                        class="v-messages__wrapper"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="layout dotted-bottom mt-2 row"
+              >
+                <div
+                  class="v-input my-0 v-input--selection-controls v-input--checkbox v-input--is-label-active v-input--is-dirty theme--light"
+                >
+                  <div
+                    class="v-input__prepend-outer"
+                  >
+                    <div
+                      class="v-input__icon v-input__icon--prepend"
+                    >
+                      <i
+                        aria-hidden="true"
+                        class="v-icon fa fa-th theme--light"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="v-input__control"
+                  >
+                    <div
+                      class="v-input__slot"
+                    >
+                      <div
+                        class="v-input--selection-controls__input"
+                      >
+                        <input
+                          aria-checked="true"
+                          aria-label="Customer name / contact"
+                          role="checkbox"
+                          type="checkbox"
+                          value="customer_name"
+                        />
+                        <div
+                          class="v-input--selection-controls__ripple primary--text"
+                        />
+                        <i
+                          aria-hidden="true"
+                          class="v-icon material-icons theme--light primary--text"
+                        >
+                          check_box
+                        </i>
+                      </div>
+                      <label
+                        aria-hidden="true"
+                        class="v-label theme--light"
+                        style="left: 0px; position: relative;"
+                      >
+                        Customer name / contact
+                      </label>
+                    </div>
+                    <div
+                      class="v-messages theme--light"
+                    >
+                      <div
+                        class="v-messages__wrapper"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="layout dotted-bottom mt-2 row"
+              >
+                <div
+                  class="v-input my-0 v-input--selection-controls v-input--checkbox v-input--is-label-active v-input--is-dirty theme--light"
+                >
+                  <div
+                    class="v-input__prepend-outer"
+                  >
+                    <div
+                      class="v-input__icon v-input__icon--prepend"
+                    >
+                      <i
+                        aria-hidden="true"
+                        class="v-icon fa fa-th theme--light"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="v-input__control"
+                  >
+                    <div
+                      class="v-input__slot"
+                    >
+                      <div
+                        class="v-input--selection-controls__input"
+                      >
+                        <input
+                          aria-checked="true"
+                          aria-label="Age"
+                          role="checkbox"
+                          type="checkbox"
+                          value="age"
+                        />
+                        <div
+                          class="v-input--selection-controls__ripple primary--text"
+                        />
+                        <i
+                          aria-hidden="true"
+                          class="v-icon material-icons theme--light primary--text"
+                        >
+                          check_box
+                        </i>
+                      </div>
+                      <label
+                        aria-hidden="true"
+                        class="v-label theme--light"
+                        style="left: 0px; position: relative;"
+                      >
+                        Age
+                      </label>
+                    </div>
+                    <div
+                      class="v-messages theme--light"
+                    >
+                      <div
+                        class="v-messages__wrapper"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="layout dotted-bottom mt-2 row"
+              >
+                <div
+                  class="v-input my-0 v-input--selection-controls v-input--checkbox v-input--is-label-active v-input--is-dirty theme--light"
+                >
+                  <div
+                    class="v-input__prepend-outer"
+                  >
+                    <div
+                      class="v-input__icon v-input__icon--prepend"
+                    >
+                      <i
+                        aria-hidden="true"
+                        class="v-icon fa fa-th theme--light"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="v-input__control"
+                  >
+                    <div
+                      class="v-input__slot"
+                    >
+                      <div
+                        class="v-input--selection-controls__input"
+                      >
+                        <input
+                          aria-checked="true"
+                          aria-label="Lead source"
+                          role="checkbox"
+                          type="checkbox"
+                          value="lead_source"
+                        />
+                        <div
+                          class="v-input--selection-controls__ripple primary--text"
+                        />
+                        <i
+                          aria-hidden="true"
+                          class="v-icon material-icons theme--light primary--text"
+                        >
+                          check_box
+                        </i>
+                      </div>
+                      <label
+                        aria-hidden="true"
+                        class="v-label theme--light"
+                        style="left: 0px; position: relative;"
+                      >
+                        Lead source
+                      </label>
+                    </div>
+                    <div
+                      class="v-messages theme--light"
+                    >
+                      <div
+                        class="v-messages__wrapper"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="layout dotted-bottom mt-2 row"
+              >
+                <div
+                  class="v-input my-0 v-input--selection-controls v-input--checkbox v-input--is-label-active v-input--is-dirty theme--light"
+                >
+                  <div
+                    class="v-input__prepend-outer"
+                  >
+                    <div
+                      class="v-input__icon v-input__icon--prepend"
+                    >
+                      <i
+                        aria-hidden="true"
+                        class="v-icon fa fa-th theme--light"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="v-input__control"
+                  >
+                    <div
+                      class="v-input__slot"
+                    >
+                      <div
+                        class="v-input--selection-controls__input"
+                      >
+                        <input
+                          aria-checked="true"
+                          aria-label="Sales Rep"
+                          role="checkbox"
+                          type="checkbox"
+                          value="sales_rep"
+                        />
+                        <div
+                          class="v-input--selection-controls__ripple primary--text"
+                        />
+                        <i
+                          aria-hidden="true"
+                          class="v-icon material-icons theme--light primary--text"
+                        >
+                          check_box
+                        </i>
+                      </div>
+                      <label
+                        aria-hidden="true"
+                        class="v-label theme--light"
+                        style="left: 0px; position: relative;"
+                      >
+                        Sales Rep
+                      </label>
+                    </div>
+                    <div
+                      class="v-messages theme--light"
+                    >
+                      <div
+                        class="v-messages__wrapper"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+     
+    <ul
+      class="v-expansion-panel mt-0 theme--light"
+    >
+      <li
+        class="v-expansion-panel__container"
+        tabindex="0"
+      >
+        <div
+          class="v-expansion-panel__header"
+        >
+          <div
+            class="title"
+          >
+            
+            Inactive
+          
+          </div>
+          <div
+            class="v-expansion-panel__header__icon"
+          >
+            <button
+              class="v-btn v-btn--flat v-btn--small theme--light"
+              type="button"
+            >
+              <div
+                class="v-btn__content"
+              >
+                
+            clear
+          
+              </div>
+            </button>
+             
+            <i
+              aria-hidden="true"
+              class="v-icon material-icons theme--light"
+              style="font-size: 16px;"
+            >
+              keyboard_arrow_down
+            </i>
+          </div>
+        </div>
+        <div
+          class="v-expansion-panel__body"
+          style="display: none;"
+        >
+            
+          <div
+            class="v-input v-text-field v-text-field--placeholder theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input__prepend-inner"
+                >
+                  <div
+                    class="v-input__icon v-input__icon--prepend-inner"
+                  >
+                    <i
+                      aria-hidden="true"
+                      class="v-icon material-icons theme--light"
+                    >
+                      search
+                    </i>
+                  </div>
+                </div>
+                <div
+                  class="v-text-field__slot"
+                >
+                  <input
+                    placeholder="Search parameter"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="mt-4"
+          >
+            <div
+              class="layout dotted-bottom mt-2 row"
+            >
+              <div
+                class="v-input my-0 v-input--selection-controls v-input--checkbox theme--light"
+              >
+                <div
+                  class="v-input__control"
+                >
+                  <div
+                    class="v-input__slot"
+                  >
+                    <div
+                      class="v-input--selection-controls__input"
+                    >
+                      <input
+                        aria-checked="false"
+                        aria-label="Opportunity title"
+                        role="checkbox"
+                        type="checkbox"
+                        value=""
+                      />
+                      <div
+                        class="v-input--selection-controls__ripple"
+                      />
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light"
+                      >
+                        check_box_outline_blank
+                      </i>
+                    </div>
+                    <label
+                      aria-hidden="true"
+                      class="v-label theme--light"
+                      style="left: 0px; position: relative;"
+                    >
+                      Opportunity title
+                    </label>
+                  </div>
+                  <div
+                    class="v-messages theme--light"
+                  >
+                    <div
+                      class="v-messages__wrapper"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="layout dotted-bottom mt-2 row"
+            >
+              <div
+                class="v-input my-0 v-input--selection-controls v-input--checkbox theme--light"
+              >
+                <div
+                  class="v-input__control"
+                >
+                  <div
+                    class="v-input__slot"
+                  >
+                    <div
+                      class="v-input--selection-controls__input"
+                    >
+                      <input
+                        aria-checked="false"
+                        aria-label="Opportunity type"
+                        role="checkbox"
+                        type="checkbox"
+                        value=""
+                      />
+                      <div
+                        class="v-input--selection-controls__ripple"
+                      />
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light"
+                      >
+                        check_box_outline_blank
+                      </i>
+                    </div>
+                    <label
+                      aria-hidden="true"
+                      class="v-label theme--light"
+                      style="left: 0px; position: relative;"
+                    >
+                      Opportunity type
+                    </label>
+                  </div>
+                  <div
+                    class="v-messages theme--light"
+                  >
+                    <div
+                      class="v-messages__wrapper"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="layout dotted-bottom mt-2 row"
+            >
+              <div
+                class="v-input my-0 v-input--selection-controls v-input--checkbox theme--light"
+              >
+                <div
+                  class="v-input__control"
+                >
+                  <div
+                    class="v-input__slot"
+                  >
+                    <div
+                      class="v-input--selection-controls__input"
+                    >
+                      <input
+                        aria-checked="false"
+                        aria-label="Import date and time"
+                        role="checkbox"
+                        type="checkbox"
+                        value=""
+                      />
+                      <div
+                        class="v-input--selection-controls__ripple"
+                      />
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light"
+                      >
+                        check_box_outline_blank
+                      </i>
+                    </div>
+                    <label
+                      aria-hidden="true"
+                      class="v-label theme--light"
+                      style="left: 0px; position: relative;"
+                    >
+                      Import date and time
+                    </label>
+                  </div>
+                  <div
+                    class="v-messages theme--light"
+                  >
+                    <div
+                      class="v-messages__wrapper"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="layout dotted-bottom mt-2 row"
+            >
+              <div
+                class="v-input my-0 v-input--selection-controls v-input--checkbox theme--light"
+              >
+                <div
+                  class="v-input__control"
+                >
+                  <div
+                    class="v-input__slot"
+                  >
+                    <div
+                      class="v-input--selection-controls__input"
+                    >
+                      <input
+                        aria-checked="false"
+                        aria-label="Internet coordinator"
+                        role="checkbox"
+                        type="checkbox"
+                        value=""
+                      />
+                      <div
+                        class="v-input--selection-controls__ripple"
+                      />
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light"
+                      >
+                        check_box_outline_blank
+                      </i>
+                    </div>
+                    <label
+                      aria-hidden="true"
+                      class="v-label theme--light"
+                      style="left: 0px; position: relative;"
+                    >
+                      Internet coordinator
+                    </label>
+                  </div>
+                  <div
+                    class="v-messages theme--light"
+                  >
+                    <div
+                      class="v-messages__wrapper"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="layout dotted-bottom mt-2 row"
+            >
+              <div
+                class="v-input my-0 v-input--selection-controls v-input--checkbox theme--light"
+              >
+                <div
+                  class="v-input__control"
+                >
+                  <div
+                    class="v-input__slot"
+                  >
+                    <div
+                      class="v-input--selection-controls__input"
+                    >
+                      <input
+                        aria-checked="false"
+                        aria-label="Sales manager"
+                        role="checkbox"
+                        type="checkbox"
+                        value=""
+                      />
+                      <div
+                        class="v-input--selection-controls__ripple"
+                      />
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light"
+                      >
+                        check_box_outline_blank
+                      </i>
+                    </div>
+                    <label
+                      aria-hidden="true"
+                      class="v-label theme--light"
+                      style="left: 0px; position: relative;"
+                    >
+                      Sales manager
+                    </label>
+                  </div>
+                  <div
+                    class="v-messages theme--light"
+                  >
+                    <div
+                      class="v-messages__wrapper"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="layout dotted-bottom mt-2 row"
+            >
+              <div
+                class="v-input my-0 v-input--selection-controls v-input--checkbox theme--light"
+              >
+                <div
+                  class="v-input__control"
+                >
+                  <div
+                    class="v-input__slot"
+                  >
+                    <div
+                      class="v-input--selection-controls__input"
+                    >
+                      <input
+                        aria-checked="false"
+                        aria-label="F&I manager"
+                        role="checkbox"
+                        type="checkbox"
+                        value=""
+                      />
+                      <div
+                        class="v-input--selection-controls__ripple"
+                      />
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light"
+                      >
+                        check_box_outline_blank
+                      </i>
+                    </div>
+                    <label
+                      aria-hidden="true"
+                      class="v-label theme--light"
+                      style="left: 0px; position: relative;"
+                    >
+                      F&I manager
+                    </label>
+                  </div>
+                  <div
+                    class="v-messages theme--light"
+                  >
+                    <div
+                      class="v-messages__wrapper"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="layout dotted-bottom mt-2 row"
+            >
+              <div
+                class="v-input my-0 v-input--selection-controls v-input--checkbox theme--light"
+              >
+                <div
+                  class="v-input__control"
+                >
+                  <div
+                    class="v-input__slot"
+                  >
+                    <div
+                      class="v-input--selection-controls__input"
+                    >
+                      <input
+                        aria-checked="false"
+                        aria-label="Estimated budget"
+                        role="checkbox"
+                        type="checkbox"
+                        value=""
+                      />
+                      <div
+                        class="v-input--selection-controls__ripple"
+                      />
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light"
+                      >
+                        check_box_outline_blank
+                      </i>
+                    </div>
+                    <label
+                      aria-hidden="true"
+                      class="v-label theme--light"
+                      style="left: 0px; position: relative;"
+                    >
+                      Estimated budget
+                    </label>
+                  </div>
+                  <div
+                    class="v-messages theme--light"
+                  >
+                    <div
+                      class="v-messages__wrapper"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="layout dotted-bottom mt-2 row"
+            >
+              <div
+                class="v-input my-0 v-input--selection-controls v-input--checkbox theme--light"
+              >
+                <div
+                  class="v-input__control"
+                >
+                  <div
+                    class="v-input__slot"
+                  >
+                    <div
+                      class="v-input--selection-controls__input"
+                    >
+                      <input
+                        aria-checked="false"
+                        aria-label="Deal # (when applicable)"
+                        role="checkbox"
+                        type="checkbox"
+                        value=""
+                      />
+                      <div
+                        class="v-input--selection-controls__ripple"
+                      />
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light"
+                      >
+                        check_box_outline_blank
+                      </i>
+                    </div>
+                    <label
+                      aria-hidden="true"
+                      class="v-label theme--light"
+                      style="left: 0px; position: relative;"
+                    >
+                      Deal # (when applicable)
+                    </label>
+                  </div>
+                  <div
+                    class="v-messages theme--light"
+                  >
+                    <div
+                      class="v-messages__wrapper"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+   
+  <div
+    class="layout row py-4 secondary fixed"
+  >
+    <div
+      class="flex mr-2 ml-4 sm6"
+    >
+      <button
+        class="v-btn v-btn--block v-btn--large theme--light"
+        type="button"
+      >
+        <div
+          class="v-btn__content"
+        >
+          
+        Clear
+      
+        </div>
+      </button>
+    </div>
+     
+    <div
+      class="flex ml-2 mr-4 sm6"
+    >
+      <button
+        class="v-btn v-btn--block v-btn--large theme--light primary"
+        type="button"
+      >
+        <div
+          class="v-btn__content"
+        >
+          
+        Apply
+      
+        </div>
+      </button>
+    </div>
+  </div>
+</div>
+`;

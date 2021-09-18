@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FOpenBtn Snapshot should matched default 1`] = `
+<div>
+  <button
+    class="v-btn theme--light -text--text"
+    type="button"
+  >
+    <div
+      class="v-btn__content"
+    >
+      <i
+        aria-hidden="true"
+        class="v-icon material-icons theme--dark"
+      >
+        keyboard_arrow_right
+      </i>
+       
+      <span>
+        Show
+      </span>
+    </div>
+  </button>
+   
+  <div
+    style="display: none;"
+  />
+</div>
+`;
+
+exports[`FOpenBtn Snapshot should matched opening 1`] = `
+<div>
+  <button
+    class="v-btn theme--light -text--text"
+    type="button"
+  >
+    <div
+      class="v-btn__content"
+    >
+      <i
+        aria-hidden="true"
+        class="v-icon material-icons theme--dark"
+      >
+        keyboard_arrow_down
+      </i>
+       
+      <span>
+        Hide
+      </span>
+    </div>
+  </button>
+   
+  <div />
+</div>
+`;
+
+exports[`FOpenBtn Snapshot should matched styles 1`] = `
+<div>
+  <button
+    class="v-btn v-btn--flat theme--light primary--text"
+    type="button"
+  >
+    <div
+      class="v-btn__content"
+    >
+      <i
+        aria-hidden="true"
+        class="v-icon material-icons theme--dark"
+      >
+        keyboard_arrow_right
+      </i>
+       
+      <span>
+        Show
+      </span>
+    </div>
+  </button>
+   
+  <div
+    style="display: none;"
+  />
+</div>
+`;

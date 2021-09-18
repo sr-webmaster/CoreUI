@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FTitleLink snapshot default 1`] = `
+<a
+  class="title primary--text text-truncate"
+/>
+`;
+
+exports[`FTitleLink snapshot with color 1`] = `
+<a
+  class="title info--text text-truncate"
+/>
+`;

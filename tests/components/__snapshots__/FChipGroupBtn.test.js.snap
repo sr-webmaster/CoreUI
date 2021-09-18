@@ -1,0 +1,136 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FChipGroupBtn Visuals setting required properties 1`] = `
+<div
+  class="v-menu f-chip-group-btn"
+  width="300"
+>
+  <button
+    class="f-chip-group-btn__activator v-btn theme--light undefined-text--text"
+    type="button"
+  >
+    <div
+      class="v-btn__content"
+    >
+      
+      Button Title
+      
+      <!---->
+    </div>
+  </button>
+  <div
+    class="v-menu__content theme--light "
+    style="max-height: auto; min-width: 0px; max-width: 300px; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+  >
+     
+    <div
+      class="f-chip-group v-card v-sheet theme--light"
+    >
+      <!---->
+       
+      <!---->
+       
+      <div
+        class="v-card__text"
+      >
+        <span
+          class="v-chip theme--light accent accent-text--text"
+          tabindex="0"
+        >
+          <span
+            class="v-chip__content"
+          >
+            
+      Category 1
+    
+          </span>
+        </span>
+        <span
+          class="v-chip theme--light accent accent-text--text"
+          tabindex="0"
+        >
+          <span
+            class="v-chip__content"
+          >
+            
+      Category 2
+    
+          </span>
+        </span>
+        <span
+          class="v-chip theme--light accent accent-text--text"
+          tabindex="0"
+        >
+          <span
+            class="v-chip__content"
+          >
+            
+      Category 3
+    
+          </span>
+        </span>
+        <span
+          class="v-chip theme--light accent accent-text--text"
+          tabindex="0"
+        >
+          <span
+            class="v-chip__content"
+          >
+            
+      Category 4
+    
+          </span>
+        </span>
+        <span
+          class="v-chip theme--light accent accent-text--text"
+          tabindex="0"
+        >
+          <span
+            class="v-chip__content"
+          >
+            
+      Category 5
+    
+          </span>
+        </span>
+        <span
+          class="v-chip theme--light accent accent-text--text"
+          tabindex="0"
+        >
+          <span
+            class="v-chip__content"
+          >
+            
+      Category 6
+    
+          </span>
+        </span>
+        <span
+          class="v-chip theme--light accent accent-text--text"
+          tabindex="0"
+        >
+          <span
+            class="v-chip__content"
+          >
+            
+      Category 7
+    
+          </span>
+        </span>
+        <span
+          class="v-chip theme--light accent accent-text--text"
+          tabindex="0"
+        >
+          <span
+            class="v-chip__content"
+          >
+            
+      Category 8
+    
+          </span>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,120 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FSimpleCardList Visuals Items 1`] = `
+<div
+  class="container"
+>
+  <div
+    class="container grid-list-sm"
+  >
+    <div
+      class="layout row wrap"
+    >
+      <div
+        class="flex pa-2"
+      >
+        <div
+          center=""
+          class="pa-2 text-xs-center v-card v-sheet theme--light grey lighten-2"
+        >
+          <h6
+            class="font-weight-bold"
+          >
+            
+          TOTAL OPPORTUNITIES
+        
+          </h6>
+           
+          <hr
+            class="v-divider theme--light"
+          />
+           
+          <h1>
+            
+          0000
+        
+          </h1>
+        </div>
+      </div>
+      <div
+        class="flex pa-2"
+      >
+        <div
+          center=""
+          class="pa-2 text-xs-center v-card v-sheet theme--light grey lighten-2"
+        >
+          <h6
+            class="font-weight-bold"
+          >
+            
+          % IN PROGRESS
+        
+          </h6>
+           
+          <hr
+            class="v-divider theme--light"
+          />
+           
+          <h1>
+            
+          00%
+        
+          </h1>
+        </div>
+      </div>
+      <div
+        class="flex pa-2"
+      >
+        <div
+          center=""
+          class="pa-2 text-xs-center v-card v-sheet theme--light grey lighten-2"
+        >
+          <h6
+            class="font-weight-bold"
+          >
+            
+          % CLOSED WON
+        
+          </h6>
+           
+          <hr
+            class="v-divider theme--light"
+          />
+           
+          <h1>
+            
+          00%
+        
+          </h1>
+        </div>
+      </div>
+      <div
+        class="flex pa-2"
+      >
+        <div
+          center=""
+          class="pa-2 text-xs-center v-card v-sheet theme--light grey lighten-2"
+        >
+          <h6
+            class="font-weight-bold"
+          >
+            
+          % CLOSED LOST
+        
+          </h6>
+           
+          <hr
+            class="v-divider theme--light"
+          />
+           
+          <h1>
+            
+          00%
+        
+          </h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

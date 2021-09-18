@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FileUploader Snapshots defaults 1`] = `
+<div
+  class="layout column justify-center fill-height"
+>
+  <div
+    class="layout row justify-center align-end"
+  >
+    <div
+      class="v-responsive v-image"
+      cover=""
+    >
+      <div
+        class="v-responsive__sizer"
+        style="padding-bottom: 75.18796992481202%;"
+      />
+      <div
+        class="v-image__image v-image__image--preload v-image__image--cover"
+        style="background-position: center center;"
+      />
+      <div
+        class="v-responsive__content"
+      />
+    </div>
+  </div>
+   
+  <div
+    class="layout row justify-center"
+  >
+    <button
+      class="v-btn theme--light primary"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        
+      Change
+    
+      </div>
+    </button>
+     
+    <!---->
+  </div>
+   
+  <input
+    name="file"
+    style="display: none;"
+    type="file"
+  />
+</div>
+`;

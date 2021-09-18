@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FFilterLabel Visuals alternative colors 1`] = `
+<div
+  class="black--text"
+>
+  <span
+    class="no-wrap font-weight-bold"
+  >
+    Label
+  </span>
+</div>
+`;
+
+exports[`FFilterLabel Visuals defaults 1`] = `
+<div
+  class="white--text"
+>
+  <span
+    class="no-wrap font-weight-bold"
+  >
+    Label
+  </span>
+</div>
+`;

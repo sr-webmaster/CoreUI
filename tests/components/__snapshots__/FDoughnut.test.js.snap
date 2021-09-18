@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Doughnut Component Visual chartData and some options set 1`] = `
+<div
+  class=""
+>
+  <canvas
+    class="chartjs-render-monitor"
+    height="0"
+    id="doughnut-chart"
+    style="display: block;"
+    width="0"
+  />
+</div>
+`;
+
+exports[`Doughnut Component Visual chartData set 1`] = `
+<div
+  class=""
+>
+  <canvas
+    class="chartjs-render-monitor"
+    height="0"
+    id="doughnut-chart"
+    style="display: block;"
+    width="0"
+  />
+</div>
+`;
+
+exports[`Doughnut Component Visual chartData set, withLabels 1`] = `
+<div
+  class=""
+>
+  <canvas
+    class="chartjs-render-monitor"
+    height="0"
+    id="doughnut-chart"
+    style="display: block;"
+    width="0"
+  />
+</div>
+`;
+
+exports[`Doughnut Component Visual chartData set, withLabels and withPercentage 1`] = `
+<div
+  class=""
+>
+  <canvas
+    class="chartjs-render-monitor"
+    height="0"
+    id="doughnut-chart"
+    style="display: block;"
+    width="0"
+  />
+</div>
+`;

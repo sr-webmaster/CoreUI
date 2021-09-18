@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FChip snapshot default 1`] = `
+<span
+  class="v-chip theme--light undefined-text--text"
+  tabindex="0"
+>
+  <span
+    class="v-chip__content"
+  />
+</span>
+`;
+
+exports[`FChip snapshot with color 1`] = `
+<span
+  class="v-chip theme--light info info-text--text"
+  tabindex="0"
+>
+  <span
+    class="v-chip__content"
+  />
+</span>
+`;
